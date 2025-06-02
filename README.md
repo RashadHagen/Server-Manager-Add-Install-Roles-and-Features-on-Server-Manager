@@ -53,8 +53,8 @@ This project goes over how to add (install) roles and features on Server Manager
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/UdSSEzQ.png" height="50%" width="100%" /></td>
     <td><img src="https://imgur.com/S3lOjeb.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/UdSSEzQ.png" height="50%" width="100%" /></td>
   </tr>
 </table>
 
