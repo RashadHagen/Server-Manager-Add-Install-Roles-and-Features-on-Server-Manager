@@ -33,12 +33,18 @@ This project goes over how to add (install) roles and features on Server Manager
 ⏹️ Project Walk-Through:</h2>
  <br/>
 
-</div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open Server Manager.
-    <br/>
-    
-  <img src="https://imgur.com/tIPru6s.png" height="50%" width="50%"/>  
-  <br /><br /><br /><br />
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open: Server Manager.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/iTsIabf.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/rKZuena.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
 
 
 <div style="text-align:center;">
