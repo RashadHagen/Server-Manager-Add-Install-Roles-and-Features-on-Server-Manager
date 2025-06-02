@@ -34,7 +34,7 @@ This project goes over how to add (install) roles and features on Server Manager
  <br/>
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open Server Manager in Windows Server.
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open Server Manager.
     <br/>
     
   <img src="https://imgur.com/tIPru6s.png" height="50%" width="50%"/>  
