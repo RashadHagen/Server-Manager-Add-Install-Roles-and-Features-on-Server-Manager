@@ -33,4 +33,93 @@ This project goes over how to add (install) roles and features on Server Manager
 ⏹️ Project Walk-Through:</h2>
  <br/>
 
-<div
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open Server Manager in Windows Server.
+    <br/>
+    
+  <img src="https://imgur.com/tIPru6s.png" height="50%" width="50%"/>  
+  <br /><br /><br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: 2 Add roles and features (top-middle of screen)  (OR)  Click: Manage (top-right).</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/UdSSEzQ.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/S3lOjeb.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Role-based or feature-based installation. Click: Next.
+    <br/>
+    
+  <img src="https://imgur.com/tppVri7.png" height="50%" width="50%"/>  
+  <br /><br /><br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Select a server from the server pool.  Select: the server you want to install onto.  Click: Next.
+    <br/>
+    
+  <img src="https://imgur.com/RtBuIXe.png" height="50%" width="50%"/>  
+  <br /><br /><br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Select: Any Role(s) you want to install.  Click: Next.  If you selected a Role(s) to install,  Click: Add Features.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/FfYkMPA.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/b6naJFn.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Select: Any Feature(s) you want to install.  Click: Next.
+    <br/>
+    
+  <img src="https://imgur.com/Nf9qK2g.png" height="50%" width="50%"/>  
+  <br /><br /><br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Next (Web Server Role).
+    <br/>
+    
+  <img src="https://imgur.com/4USEcNq.png" height="50%" width="50%"/>  
+  <br /><br /><br /><br />
+
+
+  </div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Any Role Services you want to install.  Click: Next.
+    <br/>
+    
+  <img src="https://imgur.com/SJMfhD3.png" height="50%" width="50%"/>  
+  <br /><br /><br /><br />
+
+
+  </div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Next (DHCP Server).
+    <br/>
+    
+  <img src="https://imgur.com/GzzZnl0.png" height="50%" width="50%"/>  
+  <br /><br /><br /><br />
+
+
+  </div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Install.
+    <br/>
+    
+  <img src="https://imgur.com/TfAfcet.png" height="50%" width="50%"/>  
+  <br /><br /><br /><br />
